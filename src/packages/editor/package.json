@@ -1,0 +1,9 @@
+{
+  "name": "@mono/editor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@mono/ui-kit": "1.0.0"
+  }
+}
